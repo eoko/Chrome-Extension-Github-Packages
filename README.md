@@ -10,6 +10,10 @@ Github is great! There is a lot of integration inside your project like `compose
 
 This project is also a simple example of a Chrome/Chromium extension for [a JS Lyon Event](http://lyonjs.org/)
 
+## An Idea
+
+![Image](/slide/src/img/capture.png)
+
 ## Tasklist
 
 - [ ] Add Js Lyon presentation link
